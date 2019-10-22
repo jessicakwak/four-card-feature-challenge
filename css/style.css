@@ -65,3 +65,6 @@ h1, h5{
 .calc{
  border-top:solid 5px hsl(212, 86%, 64%);
 }
+
+.attribution{
+  text-align:center;
